@@ -5,4 +5,4 @@ My name is Killer88967 (as you can see), I am a developer that works on many typ
 [![Youtube](./assets/youtube.svg)](https://youtube.com/@awesomeagaming)
 
 #### Coding languages I use
-![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![JavaScript](./assets/javascript.svg) <a onclick="location.assign('https://nextjs.org')">![NextJS](./assets/nextjs.svg)</a>
+![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![JavaScript](./assets/javascript.svg) <a href="https://nextjs.org">![NextJS](./assets/nextjs.svg)</a>
