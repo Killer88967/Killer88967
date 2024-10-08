@@ -5,4 +5,4 @@ My name is Killer88967 (as you can see), I am a developer that works on many typ
 [![Youtube](./assets/youtube.svg)](https://youtube.com/@awesomeagaming)
 
 #### Coding languages I use
-![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg)
+![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![JavaScript](./assets/javascript.svg) ![NextJS](./assets/nextjs.svg)
