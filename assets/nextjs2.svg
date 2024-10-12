@@ -1,0 +1,11 @@
+<svg width="131" height="48" viewBox="0 0 131 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="131" height="48" fill="black"/>
+  <g transform="translate(10, 10)">
+    <polygon points="-3.4,30 7,4 17.6,30" fill="white"/>
+    <line x1="20" y1="30" x2="30" y2="1.4" stroke="#303030" stroke-width="1.6"/>
+  </g>
+  <g transform="translate(2, 3)">
+    <text x="38" y="35" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">NEXT</text>
+    <text x="100" y="35" fill="white" font-family="Arial, sans-serif" font-size="12">.JS</text>
+  </g>
+</svg>
