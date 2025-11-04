@@ -21,9 +21,9 @@
 🧠 Always learning, from frontend frameworks to backend systems and scripting tools.  
 🎥 Used to post **YouTube videos**, might return with devlogs soon.  
 
----
+<!-- ---
 
-<!-- ### 🎬 Featured Video — *“What I Do”*
+### 🎬 Featured Video — *“What I Do”*
 <a href="https://www.youtube.com/watch?v=miC02ydxGJw" target="_blank">
   <img src="https://img.youtube.com/vi/miC02ydxGJw/maxresdefault.jpg" 
        alt="What I Do Video" 
