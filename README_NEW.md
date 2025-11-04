@@ -23,7 +23,7 @@
 
 ---
 
-### 🎬 Featured Video — *“What I Do”*
+<!-- ### 🎬 Featured Video — *“What I Do”*
 <a href="https://www.youtube.com/watch?v=miC02ydxGJw" target="_blank">
   <img src="https://img.youtube.com/vi/miC02ydxGJw/maxresdefault.jpg" 
        alt="What I Do Video" 
@@ -31,7 +31,7 @@
        style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0,0,0,0.4); margin-top: 10px;">
 </a>
 
-[![YouTube](https://img.shields.io/badge/Subscribe-red?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/@awesomeagaming)
+[![YouTube](https://img.shields.io/badge/Subscribe-red?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/@awesomeagaming) -->
 
 ---
 
