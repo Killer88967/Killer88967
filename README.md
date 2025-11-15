@@ -55,13 +55,13 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="45" alt="Git"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="45" alt="VS Code"></a>
 
----
+<!-- ---
 
 ### 🚀 Current Projects
 
 - 💻 **[Portfolio Site](https://killer88967.github.io/)** — My personal website showcasing my work.  
 - 🕹️ **[My Awesome Game](https://github.com/Killer88967/MyAwesomeGame)** — A 2D action platformer built from scratch.  
-- 🤖 **[Discord Tools](https://github.com/Killer88967/discord-utils)** — Scripts and utilities for Discord bots.  
+- 🤖 **[Discord Tools](https://github.com/Killer88967/discord-utils)** — Scripts and utilities for Discord bots.  -->
 
 ---
 
