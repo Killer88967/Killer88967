@@ -70,7 +70,8 @@
 <img src="https://github-readme-stats-killer88967.vercel.app/api?username=Killer88967&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD" height="150" alt="GitHub Stats"/>
 <img src="https://github-readme-stats-killer88967.vercel.app/api/top-langs?username=Killer88967&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=70A5FD" height="150" alt="Top Languages"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Killer88967&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Killer88967&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD) -->
+[![GitHub Streak](https://github-readme-streak-stats-killer88967.vercel.app?user=Killer88967)](https://git.io/streak-stats)
 
 ---
 
