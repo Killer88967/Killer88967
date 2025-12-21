@@ -77,7 +77,7 @@
 
 ### 🏆 Achievements
 
-<img src="https://github-profile-trophy-killer88967.vercel.app/?username=Killer88967&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Trophies"/>
+<img src="https://github-profile-trophy-killer88967.vercel.app/?username=Killer88967" alt="Trophies"/>
 
 ---
 
