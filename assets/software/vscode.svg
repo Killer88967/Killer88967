@@ -1,0 +1,6 @@
+<svg width="116" height="48" viewBox="0 0 116 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M116 0H0V48H116V0Z" fill="#007ACC"/>
+  <path d="M21.25 9.5H19C10.9919 9.5 4.5 15.9919 4.5 24C4.5 32.0081 10.9919 38.5 19 38.5H21.25C29.2581 38.5 35.75 32.0081 35.75 24C35.75 15.9919 29.2581 9.5 21.25 9.5Z" fill="white"/>
+  <path d="M25.2 14.9L19.1 19.6L15.8 17L14.3 17.9V18.1L17.4 21L14.3 23.9V24.1L15.8 25L19.1 22.4L25.2 27.1C25.7 27.5 26.4 27.1 26.4 26.4V15.6C26.4 14.9 25.7 14.5 25.2 14.9Z" fill="#007ACC"/>
+  <text x="41" y="29" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="14.5" font-weight="700">VS Code</text>
+</svg>

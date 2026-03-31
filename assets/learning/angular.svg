@@ -1,0 +1,7 @@
+<svg width="116" height="48" viewBox="0 0 116 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M116 0H0V48H116V0Z" fill="#DD0031"/>
+  <path d="M21.25 9.5H19C10.9919 9.5 4.5 15.9919 4.5 24C4.5 32.0081 10.9919 38.5 19 38.5H21.25C29.2581 38.5 35.75 32.0081 35.75 24C35.75 15.9919 29.2581 9.5 21.25 9.5Z" fill="white"/>
+  <path d="M20.1 14.9L26.55 17.25L25.55 26L20.1 29.1L14.65 26L13.65 17.25L20.1 14.9Z" fill="#DD0031"/>
+  <path d="M20.1 17.9L17.25 24.2H18.95L19.55 22.7H20.1H20.65L21.25 24.2H22.95L20.1 17.9ZM20.1 20L20.85 21.85H19.35L20.1 20Z" fill="white"/>
+  <text x="41" y="29" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="14.5" font-weight="700">Angular</text>
+</svg>

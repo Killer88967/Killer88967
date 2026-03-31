@@ -1,0 +1,7 @@
+<svg width="116" height="48" viewBox="0 0 116 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M116 0H0V48H116V0Z" fill="#0F172A"/>
+  <path d="M21.25 9.5H19C10.9919 9.5 4.5 15.9919 4.5 24C4.5 32.0081 10.9919 38.5 19 38.5H21.25C29.2581 38.5 35.75 32.0081 35.75 24C35.75 15.9919 29.2581 9.5 21.25 9.5Z" fill="white"/>
+  <path d="M20.125 15.9L26.85 19.8V28.2L20.125 32.1L13.4 28.2V19.8L20.125 15.9Z" stroke="#0F172A" stroke-width="1.9"/>
+  <path d="M20.125 19.9L23.45 21.85V26.15L20.125 28.1L16.8 26.15V21.85L20.125 19.9Z" fill="#0F172A"/>
+  <text x="41" y="29" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Expo</text>
+</svg>
