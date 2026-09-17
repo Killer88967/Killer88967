@@ -2,7 +2,13 @@
   <rect width="105" height="48" rx="10" fill="#0D1117"/>
   <rect x=".5" y=".5" width="104" height="47" rx="9.5" fill="none" stroke="#30363D"/>
 
-  <path d="M23 10 37 34H9L23 10Z" fill="#F0F6FC"/>
+  <path
+    transform="translate(10 12)"
+    fill="#FFFFFF"
+    d="m12 1.608 12 20.784H0Z"
+  />
 
-  <text x="48" y="30" fill="#F0F6FC" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700">Vercel</text>
+  <text x="45" y="30" fill="#F0F6FC"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="15" font-weight="700">Vercel</text>
 </svg>
