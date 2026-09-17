@@ -1,57 +1,67 @@
 <svg width="155" height="48" viewBox="0 0 155 48" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="world" x1="7" y1="7" x2="39" y2="39" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#57F287"/>
-      <stop offset="1" stop-color="#70A5FD"/>
+    <linearGradient id="mmorpg-gradient" x1="7" y1="5" x2="40" y2="41" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A371F7"/>
+      <stop offset=".55" stop-color="#70A5FD"/>
+      <stop offset="1" stop-color="#57F287"/>
     </linearGradient>
   </defs>
 
   <rect width="155" height="48" rx="10" fill="#0D1117"/>
-  <rect
-    x="0.5"
-    y="0.5"
-    width="154"
-    height="47"
-    rx="9.5"
-    stroke="#30363D"
-  />
+  <rect x=".5" y=".5" width="154" height="47" rx="9.5" stroke="#30363D"/>
 
-  <g transform="translate(8 6)">
-    <circle
-      cx="18"
-      cy="18"
-      r="14"
-      stroke="url(#world)"
+  <g transform="translate(7 5)">
+    <!-- crystal / world shard -->
+    <path
+      d="M19 2L32 11L28 28L19 36L10 28L6 11L19 2Z"
+      fill="url(#mmorpg-gradient)"
+      fill-opacity=".12"
+      stroke="url(#mmorpg-gradient)"
       stroke-width="1.8"
+      stroke-linejoin="round"
     />
 
-    <path
-      d="M4 18H32"
-      stroke="url(#world)"
-      stroke-width="1.5"
-    />
+    <!-- shard facets -->
+    <path d="M19 2V36" stroke="#70A5FD" stroke-opacity=".45" stroke-width="1.2"/>
+    <path d="M6 11L19 17L32 11" stroke="#A371F7" stroke-opacity=".5" stroke-width="1.2"/>
+    <path d="M10 28L19 17L28 28" stroke="#57F287" stroke-opacity=".5" stroke-width="1.2"/>
 
+    <!-- sword -->
     <path
-      d="M18 4C13.5 8.5 11 13 11 18C11 23 13.5 27.5 18 32"
-      stroke="url(#world)"
-      stroke-width="1.5"
-    />
-
-    <path
-      d="M18 4C22.5 8.5 25 13 25 18C25 23 22.5 27.5 18 32"
-      stroke="url(#world)"
-      stroke-width="1.5"
-    />
-
-    <circle cx="8" cy="18" r="2.2" fill="#57F287"/>
-    <circle cx="25" cy="10" r="2.2" fill="#70A5FD"/>
-    <circle cx="23" cy="27" r="2.2" fill="#A371F7"/>
-
-    <path
-      d="M8 18L25 10L23 27L8 18Z"
+      d="M24.5 8L13.5 27"
       stroke="#F0F6FC"
-      stroke-opacity="0.35"
-      stroke-width="1"
+      stroke-width="1.7"
+      stroke-linecap="round"
+    />
+    <path
+      d="M12 24.5L17 27.5"
+      stroke="#F0F6FC"
+      stroke-width="1.7"
+      stroke-linecap="round"
+    />
+    <path
+      d="M13.5 27L11.5 31"
+      stroke="#F0F6FC"
+      stroke-width="1.7"
+      stroke-linecap="round"
+    />
+
+    <!-- multiplayer nodes -->
+    <circle cx="8" cy="18" r="2.1" fill="#A371F7"/>
+    <circle cx="30" cy="18" r="2.1" fill="#70A5FD"/>
+    <circle cx="19" cy="33" r="2.1" fill="#57F287"/>
+
+    <path
+      d="M10 18H15"
+      stroke="#A371F7"
+      stroke-width="1.2"
+      stroke-linecap="round"
+    />
+    <path
+      d="M23 18H28"
+      stroke="#70A5FD"
+      stroke-width="1.2"
+      stroke-linecap="round"
     />
   </g>
 

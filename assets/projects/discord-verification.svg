@@ -1,4 +1,11 @@
 <svg width="210" height="48" viewBox="0 0 210 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="dv-gradient" x1="6" y1="4" x2="36" y2="38" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5865F2"/>
+      <stop offset="1" stop-color="#70A5FD"/>
+    </linearGradient>
+  </defs>
+
   <rect width="210" height="48" rx="10" fill="#0D1117"/>
   <rect
     x="0.5"
@@ -9,28 +16,29 @@
     stroke="#30363D"
   />
 
-  <g transform="translate(9 6)">
+  <g transform="translate(8 5)">
+    <!-- shield -->
     <path
-      d="M18 2L31 7V17C31 25.5 25.5 31.5 18 35C10.5 31.5 5 25.5 5 17V7L18 2Z"
+      d="M19 2L33 7V17.5C33 26.8 27.3 32.5 19 36C10.7 32.5 5 26.8 5 17.5V7L19 2Z"
       fill="#5865F2"
-      fill-opacity="0.15"
-      stroke="#5865F2"
+      fill-opacity="0.08"
+      stroke="url(#dv-gradient)"
       stroke-width="1.8"
       stroke-linejoin="round"
     />
 
+    <!-- D -->
     <path
-      d="M11.5 14.5C14.8 12.7 21.2 12.7 24.5 14.5"
-      stroke="#AEB8FF"
-      stroke-width="1.7"
+      d="M10.5 12V24H15.2C19.2 24 21.5 21.8 21.5 18C21.5 14.2 19.2 12 15.2 12H10.5Z"
+      stroke="#F0F6FC"
+      stroke-width="1.8"
       stroke-linecap="round"
+      stroke-linejoin="round"
     />
 
-    <circle cx="14" cy="18" r="1.4" fill="#AEB8FF"/>
-    <circle cx="22" cy="18" r="1.4" fill="#AEB8FF"/>
-
+    <!-- V as checkmark -->
     <path
-      d="M12 24L16.5 28L24.5 19.5"
+      d="M22.5 15.5L26 24L30.5 12"
       stroke="#57F287"
       stroke-width="2.2"
       stroke-linecap="round"
@@ -39,7 +47,7 @@
   </g>
 
   <text
-    x="51"
+    x="52"
     y="29.5"
     fill="#F0F6FC"
     font-family="Arial, Helvetica, sans-serif"
