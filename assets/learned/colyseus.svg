@@ -1,47 +1,41 @@
 <svg width="125" height="48" viewBox="0 0 125 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="colyseus-a" x1="53.16" y1="17.12" x2="538.67" y2="402.18" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#A32FE0"/>
+      <stop offset="1" stop-color="#5945E3"/>
+    </linearGradient>
+
+    <linearGradient id="colyseus-b" x1="68.23" y1="-1.88" x2="553.74" y2="383.18" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#A32FE0"/>
+      <stop offset="1" stop-color="#5945E3"/>
+    </linearGradient>
+
+    <linearGradient id="colyseus-c" x1="-59.05" y1="158.6" x2="426.46" y2="543.66" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#A32FE0"/>
+      <stop offset="1" stop-color="#5945E3"/>
+    </linearGradient>
+  </defs>
+
   <rect width="125" height="48" rx="10" fill="#0D1117"/>
   <rect x=".5" y=".5" width="124" height="47" rx="9.5" stroke="#30363D"/>
 
-  <g transform="translate(8 7)">
-    <rect
-      x="2"
-      y="3"
-      width="28"
-      height="28"
-      rx="7"
-      fill="#161B22"
-      stroke="#E6B94A"
-      stroke-width="1.6"
-    />
-
-    <circle cx="10" cy="13" r="3" fill="#E6B94A"/>
-    <circle cx="22" cy="13" r="3" fill="#E6B94A"/>
-    <circle cx="16" cy="23" r="3" fill="#E6B94A"/>
-
+  <svg x="10" y="8" width="29" height="32" viewBox="0 0 488.94 541.2">
     <path
-      d="M12.5 14.5L15 20"
-      stroke="#F0F6FC"
-      stroke-width="1.5"
-      stroke-linecap="round"
+      fill="url(#colyseus-a)"
+      d="m80.42,197.14c13.82,11.25,30.56,22.25,50.78,32.11,14.87-28.67,72.09-100.71,233.32-79.68l-14.4-55.35c-200.24-17.18-257.81,77.11-269.7,102.92Z"
     />
-
     <path
-      d="M19.5 14.5L17 20"
-      stroke="#F0F6FC"
-      stroke-width="1.5"
-      stroke-linecap="round"
+      fill="url(#colyseus-b)"
+      d="m44.53,167.77c22.44-40.73,99.17-124.23,290.19-105.83L310.19,1.59S109.9-21.63,8.9,109.47c3.62,10.55,13.31,33.34,35.63,58.29Z"
     />
-
     <path
-      d="M10 8V6H22V8"
-      stroke="#E6B94A"
-      stroke-width="1.4"
-      stroke-linecap="round"
+      fill="url(#colyseus-c)"
+      d="m407.7,291.25c-32.14,3.35-62.02,4.95-89.63,4.95C123.09,296.2,36.78,219.6,0,164.95v251.98s15.77,162.98,488.94,115.66l-81.24-241.33Z"
     />
-  </g>
+  </svg>
 
   <text
-    x="48"
+    x="47"
     y="30"
     fill="#F0F6FC"
     font-family="Arial, Helvetica, sans-serif"
