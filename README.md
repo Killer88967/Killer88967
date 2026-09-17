@@ -19,15 +19,16 @@
 💻 **Full Stack Web Developer** — passionate about creating fast, responsive, and engaging web apps.  
 🎮 **Newbie Game Developer** — experimenting with game mechanics and engines.  
 🧠 Always learning, from frontend frameworks to backend systems and scripting tools.  
-🎥 Used to post **YouTube videos**, might return with devlogs soon.  
+🎥 Used to post **YouTube videos**, might return with devlogs soon.
 
 <!-- ---
 
-### 🎬 Featured Video — *“What I Do”*
+### 🎬 Featured Video — _“What I Do”_
+
 <a href="https://www.youtube.com/watch?v=miC02ydxGJw" target="_blank">
-  <img src="https://img.youtube.com/vi/miC02ydxGJw/maxresdefault.jpg" 
-       alt="What I Do Video" 
-       width="600" 
+  <img src="https://img.youtube.com/vi/miC02ydxGJw/maxresdefault.jpg"
+       alt="What I Do Video"
+       width="600"
        style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0,0,0,0.4); margin-top: 10px;">
 </a>
 
@@ -38,6 +39,7 @@
 ### 🧠 Languages & Tools
 
 #### 💻 Frontend
+
 <img src="./assets/learned/html.svg" height="40" alt="HTML5">
 <img src="./assets/learned/css.svg" height="40" alt="CSS3">
 <img src="./assets/learned/bootstrap.svg" height="40" alt="Bootstrap">
@@ -47,6 +49,7 @@
 <a href="https://nextjs.org"><img src="./assets/learned/nextjs.svg" height="40" alt="NextJS"></a>
 
 #### ⚙️ Backend / Tools
+
 <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="45" alt="Node.js"></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=dark" height="45" alt="Express.js"></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="45" alt="MongoDB"></a>
@@ -59,8 +62,8 @@
 
 ### 🚀 Current Projects
 
-- 💻 **[Portfolio Site](https://killer88967.github.io/)** — My personal website showcasing my work.  
-- 🕹️ **[My Awesome Game](https://github.com/Killer88967/MyAwesomeGame)** — A 2D action platformer built from scratch.  
+- 💻 **[Portfolio Site](https://killer88967.github.io/)** — My personal website showcasing my work.
+- 🕹️ **[My Awesome Game](https://github.com/Killer88967/MyAwesomeGame)** — A 2D action platformer built from scratch.
 - 🤖 **[Discord Tools](https://github.com/Killer88967/discord-utils)** — Scripts and utilities for Discord bots.  -->
 
 ---
@@ -89,6 +92,6 @@
 
 ---
 
-⭐️ *“Keep learning, keep building, and make something awesome every day.”*
+⭐️ _“Keep learning, keep building, and make something awesome every day.”_
 
 </div>
