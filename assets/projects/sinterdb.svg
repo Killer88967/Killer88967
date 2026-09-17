@@ -1,0 +1,60 @@
+<svg width="165" height="48" viewBox="0 0 165 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sinter" x1="8" y1="7" x2="39" y2="39" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#70A5FD"/>
+      <stop offset="1" stop-color="#A371F7"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="165" height="48" rx="10" fill="#0D1117"/>
+  <rect
+    x="0.5"
+    y="0.5"
+    width="164"
+    height="47"
+    rx="9.5"
+    stroke="#30363D"
+  />
+
+  <g transform="translate(9 7)">
+    <ellipse
+      cx="17"
+      cy="6"
+      rx="13"
+      ry="5"
+      stroke="url(#sinter)"
+      stroke-width="1.8"
+    />
+
+    <path
+      d="M4 6V26C4 28.8 9.8 31 17 31C24.2 31 30 28.8 30 26V6"
+      stroke="url(#sinter)"
+      stroke-width="1.8"
+    />
+
+    <path
+      d="M4 16C4 18.8 9.8 21 17 21C24.2 21 30 18.8 30 16"
+      stroke="url(#sinter)"
+      stroke-width="1.5"
+      stroke-opacity="0.75"
+    />
+
+    <path
+      d="M21 10.5C19.8 9.6 18.2 9 16.5 9C13.7 9 12 10.2 12 12C12 15.8 22 14.2 22 19C22 21.4 19.7 23 16.5 23C14.5 23 12.5 22.3 11 21"
+      stroke="#F0F6FC"
+      stroke-width="1.8"
+      stroke-linecap="round"
+    />
+  </g>
+
+  <text
+    x="50"
+    y="30"
+    fill="#F0F6FC"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="16"
+    font-weight="700"
+  >
+    SinterDB
+  </text>
+</svg>

@@ -1,0 +1,68 @@
+<svg width="155" height="48" viewBox="0 0 155 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="world" x1="7" y1="7" x2="39" y2="39" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#57F287"/>
+      <stop offset="1" stop-color="#70A5FD"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="155" height="48" rx="10" fill="#0D1117"/>
+  <rect
+    x="0.5"
+    y="0.5"
+    width="154"
+    height="47"
+    rx="9.5"
+    stroke="#30363D"
+  />
+
+  <g transform="translate(8 6)">
+    <circle
+      cx="18"
+      cy="18"
+      r="14"
+      stroke="url(#world)"
+      stroke-width="1.8"
+    />
+
+    <path
+      d="M4 18H32"
+      stroke="url(#world)"
+      stroke-width="1.5"
+    />
+
+    <path
+      d="M18 4C13.5 8.5 11 13 11 18C11 23 13.5 27.5 18 32"
+      stroke="url(#world)"
+      stroke-width="1.5"
+    />
+
+    <path
+      d="M18 4C22.5 8.5 25 13 25 18C25 23 22.5 27.5 18 32"
+      stroke="url(#world)"
+      stroke-width="1.5"
+    />
+
+    <circle cx="8" cy="18" r="2.2" fill="#57F287"/>
+    <circle cx="25" cy="10" r="2.2" fill="#70A5FD"/>
+    <circle cx="23" cy="27" r="2.2" fill="#A371F7"/>
+
+    <path
+      d="M8 18L25 10L23 27L8 18Z"
+      stroke="#F0F6FC"
+      stroke-opacity="0.35"
+      stroke-width="1"
+    />
+  </g>
+
+  <text
+    x="50"
+    y="30"
+    fill="#F0F6FC"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="16"
+    font-weight="700"
+  >
+    MMORPG
+  </text>
+</svg>
