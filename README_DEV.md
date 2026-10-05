@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Killer88967">
+[<img src="./assets/banner.svg" width="100%" alt="Killer88967">](#)
 
 <br>
 
