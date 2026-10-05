@@ -153,6 +153,8 @@ An experimental multiplayer game project focused on realtime networking, gamepla
   &nbsp;
   <img src="./assets/learning/redis.svg" height="38" alt="Redis">
   &nbsp;
+  <img src="./assets/learning/rust.svg" height="38" alt="Rust">
+  &nbsp;
   <img src="./assets/learning/java.svg" height="38" alt="Java">
   &nbsp;
   <img src="./assets/learning/vue.svg" height="38" alt="Vue">
